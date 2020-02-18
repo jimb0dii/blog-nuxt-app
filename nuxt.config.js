@@ -65,7 +65,7 @@ export default {
    ** Nuxt.js environment variables
    */
   env: {
-    firebaseApiKey: 'AIzaSyBekN7nddAmFice8CGN9RcOx9S5Wp0iLZg'
+    firebaseApiKey: //API KEY HERE
   },
   /*
    ** Nuxt.js default page transitions
